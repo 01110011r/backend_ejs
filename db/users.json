@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "male": true
+    },
+    {
+        "id": 2,
+        "name": "Jek",
+        "male": true
+    },
+    {
+        "id": 3,
+        "name": "Juliana",
+        "male": false
+    },
+    {
+        "id": 4,
+        "name": "Max",
+        "male": true
+    },
+    {
+        "id": 5,
+        "name": "Ketti",
+        "male": false
+    },
+    {
+        "id": 6,
+        "name": "Jim",
+        "male": true
+    }
+]
